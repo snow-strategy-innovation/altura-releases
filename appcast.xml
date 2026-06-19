@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>Altura Coach Updates</title>
+        <link>https://snow-strategy-innovation.github.io/altura-releases/appcast.xml</link>
+        <description>Most recent updates to Altura Coach.</description>
+        <language>en</language>
+            <item>
+                <title>Version 1.0.0</title>
+                <pubDate>Fri, 19 Jun 2026 13:44:58 -0700</pubDate>
+                <sparkle:version>330</sparkle:version>
+                <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+                <enclosure
+                    url="https://github.com/snow-strategy-innovation/altura-releases/releases/download/v1.0.0/AlturaCoach-1.0.0.zip"
+                    type="application/octet-stream"
+                    sparkle:edSignature="eaidYo5XXXR7ijCC11aAm3xRykqVAjSHIG9Ix5NWg+eUt8I4aeYjEyti/OGa5pwVvrxI1+21OAQNtoWkH8o4Aw=="
+                    length="21874415"
+                />
+            </item>
+    </channel>
+</rss>

@@ -29,5 +29,17 @@
                     length="21729197"
                 />
             </item>
+            <item>
+                <title>Version 1.0.2</title>
+                <pubDate>Wed, 01 Jul 2026 17:17:01 -0700</pubDate>
+                <sparkle:version>373</sparkle:version>
+                <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+                <enclosure
+                    url="https://github.com/snow-strategy-innovation/altura-releases/releases/download/v1.0.2/AlturaCoach-1.0.2.zip"
+                    type="application/octet-stream"
+                    sparkle:edSignature="YishgVXPXhTv5W4AlsQu9XPirfRIqQd+q54Ing5Dv4RtQ5nHctVZsW4SLvRFO2Go/sX3UATXyIfIOdjN3p0LCQ=="
+                    length="21757972"
+                />
+            </item>
     </channel>
 </rss>
